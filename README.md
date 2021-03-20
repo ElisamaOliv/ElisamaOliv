@@ -1,11 +1,11 @@
-- 👋 Hello, I'm @ElisamaOliv
-- I am interested in learning and sharing
-- 🌱 I'm currently learning Python, JavaScript, HTML, CSS ...
-- 💞️ I'm looking to collaborate as much as possible.
+- 👋 Olá, sou @ElisamaOliv
+- 👀 estou interessado em aprender e dividir 
+- 🌱 Atualmente estou aprendendo Python, JavaScript, HTML, CSS...
+- 💞️ Estou procurando colaborar em que for possivel.
 
-- 📫 How to reach me ...
+- 📫 Como me alcançar ...
 
 <! ---
-ElisamaOliv / ElisamaOliv is a special ✨ repository because your `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to see your changes.
+ElisamaOliv / ElisamaOliv é um repositório ✨ especial porque seu `README.md` (este arquivo) aparece em seu perfil GitHub.
+Você pode clicar no link Visualizar para ver suas alterações.
 --->
